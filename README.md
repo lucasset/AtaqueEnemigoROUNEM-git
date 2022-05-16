@@ -31,8 +31,8 @@ limite solo puede perder 3 vidas, si pierde todas pierde.
 Requisitos
 ----------
 
--Se debe tener instalado "python".
--Se debe tener instalado la libreria "pygame".
+-Se debe tener instalado "python 3.10.4".
+-Se debe tener instalado la libreria "pygame 2.1.2".
 
 EJECUTA O PROBAR EL JUEGO
 ----------------------------------
